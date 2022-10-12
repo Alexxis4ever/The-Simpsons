@@ -18,3 +18,4 @@ function getApi() {
             information.textContent = data[0].quote
         })
 }
+
